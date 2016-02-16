@@ -1,0 +1,5 @@
+C:\Users\ivy\Documents\GitHub\FractionOperations\FractionOperations\bin\Debug\FractionOperations.dll
+C:\Users\ivy\Documents\GitHub\FractionOperations\FractionOperations\bin\Debug\FractionOperations.pdb
+C:\Users\ivy\Documents\GitHub\FractionOperations\FractionOperations\obj\Debug\FractionOperations.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\FractionOperations\FractionOperations\obj\Debug\FractionOperations.dll
+C:\Users\ivy\Documents\GitHub\FractionOperations\FractionOperations\obj\Debug\FractionOperations.pdb
