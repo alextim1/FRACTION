@@ -69,6 +69,12 @@ namespace FractionOperations
             OptimizeFraction();
         }
 
+        public Fraction(object numerator, object denomenator)
+            :this (numerator.ToString()+@"/"+denomenator.ToString())
+        {
+
+        }
+
         public override string ToString()
         {
             return (_numerator.ToString()+"/"+_denominator.ToString());

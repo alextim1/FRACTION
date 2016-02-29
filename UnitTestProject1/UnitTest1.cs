@@ -124,6 +124,18 @@ namespace UnitTestProject1
             Assert.AreEqual(2, test.Denominator);
         }
 
+        [TestMethod]
+
+        public void InputCorrect7()
+        {
+            //arrange
+
+            Fraction test = new Fraction(6,12);
+
+            //assert
+            Assert.AreEqual(1, test.Numerator);
+            Assert.AreEqual(2, test.Denominator);
+        }
 
         [TestMethod]
 
